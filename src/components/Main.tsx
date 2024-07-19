@@ -34,6 +34,9 @@ export default function Main() {
               AI ตรวจวินิจฉัยโรค
             </a>
             {/* <a className="mr-5 hover:text-gray-900">การประเมินนโยบายสาธารณะ</a> */}
+            <a href="/evaluation" className="mr-5 hover:text-gray-900">
+              การประเมินนโยบายสาธารณะ
+            </a>
             <a className="mr-5 hover:text-gray-900">ChatGPT</a>
             <a className="mr-5 hover:text-gray-900">ติดต่อ</a>
           </nav>
