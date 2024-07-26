@@ -37,7 +37,9 @@ export default function Main() {
             <a href="/evaluation" className="mr-5 hover:text-gray-900">
               การประเมินนโยบายสาธารณะ
             </a>
-            <a className="mr-5 hover:text-gray-900">ChatGPT</a>
+            <a href="/chatgpt" className="mr-5 hover:text-gray-900">
+              ChatGPT
+            </a>
             <a className="mr-5 hover:text-gray-900">ติดต่อ</a>
           </nav>
           <button className="inline-flex items-center bg-gray-100 border-0 py-1 px-3 focus:outline-none hover:bg-gray-200 rounded text-base mt-4 md:mt-0 ">
